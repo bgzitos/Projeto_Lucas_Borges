@@ -10,4 +10,8 @@ public class C {
     public static void MC2() {
         System.out.println("MC2");
     }
+
+    public static void MC3() {
+        System.out.println("MC3");
+    }
 }
